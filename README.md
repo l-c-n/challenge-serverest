@@ -57,17 +57,7 @@ Imagens usadas estão na pasta `cypress/fixtures`.
 
 ---
 
-## 🤖 Integração Contínua (CI)
 
-O projeto conta com pipeline automatizado via **GitHub Actions**:
-
-- Instala dependências
-- Executa testes Cypress em ambiente headless
-- Publica resultados como artefato
-
-Arquivo: `.github/workflows/ci.yml`
-
----
 
 ## 🧠 Requisitos
 
