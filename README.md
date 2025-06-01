@@ -77,7 +77,7 @@ cypress-serverest/
 │   │   └── api/
 │   ├── fixtures/           # Dados e arquivos usados nos testes (ex: imagens)
 │   ├── support/            # Comandos customizados e configuração
-├── .github/workflows/      # Pipeline CI (GitHub Actions)
+
 ├── cypress.config.js       # Configuração do Cypress
 ├── package.json            # Dependências e scripts
 ```
